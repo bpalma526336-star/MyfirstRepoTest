@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bob Marley Palma</h1>
 <h3 align="center">A passionate Back-end Mobile App developer from The Philippines</h3>
 
-- 🔭 I’m currently working on [iReader](ireader-af97b.web.app)
+- 🔭 I’m currently working on [iReader](https:ireader-af97b.web.app)
 
 - 🌱 I’m currently learning **React.js and JavaScript**
 
